@@ -1,0 +1,22 @@
+{
+    "s1": [
+        { "name": "Sony PS4", "qty": 5 },
+        { "name": "Sony PS5", "qty": 2 },
+        { "name": "Nintendo Switch", "qty": 15 }
+    ],
+    "s2": [
+        { "name": "Sony PS4", "qty": 2 },
+        { "name": "Sony PS5", "qty": 3 },
+        { "name": "Nintendo Switch", "qty": 7 }
+    ],
+    "s3": [
+        { "name": "Nintendo Switch", "qty": 4 }
+    ],
+    "s4": [
+        { "name": "Sony PS4", "qty": 4 },
+        { "name": "Sony PS5", "qty": 8 },
+        { "name": "Nintendo Switch", "qty": 6 },
+        { "name": "Microsoft Xbox One", "qty": 2 },
+        { "name": "KFConsole", "qty": 1 }
+    ]
+}
